@@ -1,4 +1,9 @@
 #  <h1 style="color:silver;">Proyecto Integrador (Henry) de Estudio de Atención en Salud.</h1>
+![Static Badge](https://img.shields.io/badge/Python-green)
+![Static Badge](https://img.shields.io/badge/Data%20Science-teal)
+![Static Badge](https://img.shields.io/badge/Henry-yellow)
+![Static Badge](https://img.shields.io/badge/Pandas-blue)
+![Static Badge](https://img.shields.io/badge/Numpy-aqua)
 
 <img src="salud.jpg" width="1000" height="600">
 
@@ -41,10 +46,6 @@ En conclusión, este proyecto de estudio de atención en salud proporciona infor
 
 
 
-![Static Badge](https://img.shields.io/badge/Python-green)
-![Static Badge](https://img.shields.io/badge/Data%20Science-teal)
-![Static Badge](https://img.shields.io/badge/Henry-yellow)
-![Static Badge](https://img.shields.io/badge/Pandas-blue)
-![Static Badge](https://img.shields.io/badge/Numpy-aqua)
+
 
 
