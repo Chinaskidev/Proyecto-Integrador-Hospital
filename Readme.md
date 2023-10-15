@@ -39,3 +39,12 @@ En este proyecto, utilizaremos técnicas de ciencia de datos, aprendizaje autom�
 
 En conclusión, este proyecto de estudio de atención en salud proporciona información esencial para la prevención de complicaciones infecciosas en pacientes sometidos a biopsia prostática. El análisis de datos y los modelos de aprendizaje automático identifican factores clave que pueden ayudar al hospital a tomar decisiones más informadas y proporcionar una atención médica más personalizada, mejorando así la calidad de la atención al paciente.
 
+
+
+![Static Badge](https://img.shields.io/badge/Python-green)
+![Static Badge](https://img.shields.io/badge/Data%20Science-teal)
+![Static Badge](https://img.shields.io/badge/Henry-yellow)
+![Static Badge](https://img.shields.io/badge/Pandas-blue)
+![Static Badge](https://img.shields.io/badge/Numpy-aqua)
+
+
