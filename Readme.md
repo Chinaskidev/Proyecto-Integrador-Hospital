@@ -4,6 +4,8 @@
 ![Static Badge](https://img.shields.io/badge/Henry-yellow)
 ![Static Badge](https://img.shields.io/badge/Pandas-blue)
 ![Static Badge](https://img.shields.io/badge/Numpy-aqua)
+![Static Badge](https://img.shields.io/badge/%20Jupyter%20Notebook-orange)
+
 
 <img src="salud.jpg" width="1000" height="600">
 
