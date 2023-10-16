@@ -1,10 +1,10 @@
 #  <h1 style="color:silver;">Proyecto Integrador (Henry) de Estudio de Atención en Salud.</h1>
-![Static Badge](https://img.shields.io/badge/Python-green)
-![Static Badge](https://img.shields.io/badge/Data%20Science-teal)
-![Static Badge](https://img.shields.io/badge/Henry-yellow)
-![Static Badge](https://img.shields.io/badge/Pandas-blue)
-![Static Badge](https://img.shields.io/badge/Numpy-aqua)
-![Static Badge](https://img.shields.io/badge/%20Jupyter%20Notebook-orange)
+![Static Badge](https://img.shields.io/badge/python-green?link=https%3A%2F%2Fwww.python.org%2F)
+![Static Badge](https://img.shields.io/badge/datascience-teal?link=https%3A%2F%2Fmedium.com%2F%40Side_by_Side)
+![Static Badge](https://img.shields.io/badge/henry-yellow?link=https%3A%2F%2Fwww.soyhenry.com%2F)
+![Static Badge](https://img.shields.io/badge/pandas-blue?link=https%3A%2F%2Fpandas.pydata.org%2Fpandas-docs%2Fstable%2Findex.html)
+![Static Badge](https://img.shields.io/badge/numpy-aqua?link=https%3A%2F%2Fnumpy.org%2F)
+![Static Badge](https://img.shields.io/badge/jupyternotebook-orange?link=https%3A%2F%2Fjupyter.org%2F)
 
 
 <img src="salud.jpg" width="1000" height="600">
