@@ -13,7 +13,7 @@
 
 ## Descripción del Proyecto
 
-Este proyecto de ciencia de datos tiene como objetivo analizar y proporcionar información valiosa sobre la atención en salud para pacientes sometidos a biopsia prostática. El proyecto se centra en identificar las características más importantes de los pacientes que terminan siendo hospitalizados debido a complicaciones infecciosas después de la biopsia prostática. Para ello, se han definido dos grupos: casos (pacientes hospitalizados con complicaciones) y controles (pacientes sin complicaciones).
+Este proyecto de ciencia de datos tiene como objetivo proporcionar un enfoque de aprendizaje práctico en el campo de la ciencia de datos. Se centra en el análisis de la atención en salud para pacientes sometidos a biopsia prostática, con el fin de explorar y adquirir conocimientos sobre las técnicas y métodos aplicados en este dominio. A través de este proyecto, se busca identificar características significativas en pacientes que pudieran requerir hospitalización debido a complicaciones infecciosas después de la biopsia prostática. Los datos se han segmentado en dos grupos: casos (pacientes hospitalizados con complicaciones) y controles (pacientes sin complicaciones), lo que nos permitirá practicar y aplicar técnicas de ciencia de datos en un contexto real.
 
 ## Objetivo
 
